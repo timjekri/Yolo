@@ -1,2 +1,2 @@
-# Yolo
+# Yolo Swag
 Sune and Tims project
